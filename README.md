@@ -1,4 +1,4 @@
 "# cont-repo" 
 
-href="https://git.com"
+href="https://git-scm.com"
 color="red"
